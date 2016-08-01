@@ -1,6 +1,7 @@
 dconf-tools
 gnome-disk-utility
 gnome-tweak-tool
+guake
 inxi
 openssh-server
 p7zip-full
